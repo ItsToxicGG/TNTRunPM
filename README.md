@@ -8,6 +8,7 @@ A PocketMine MiniGame TNTRun by ItsToxicYT/GG
 - [ ] Provider & setable Provider (saves wins)
 # Issues & Suggestions
 U Can Report Issues at https://github.com/ItsToxicGG/TNTRunPM/issues
+
 U Can Send a Suggestion also at issues tab/https://github.com/ItsToxicGG/TNTRunPM/issues
 # Showcasing & Setup
 Showcasing video:
